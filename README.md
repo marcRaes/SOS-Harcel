@@ -1,6 +1,6 @@
 # Plateforme d'entraide contre le harcèlement scolaire
 
-Ce projet est une plateforme en ligne conçue pour fournir un soutien et une entraide aux personnes victimes de harcèlement scolaire. Le site web a été initialement développé sous Symfony 3.4 et a récemment été migré vers Symfony 7.2.
+Ce projet est une plateforme en ligne conçue pour fournir un soutien et une entraide aux personnes victimes de harcèlement scolaire. Le site web a été initialement développé sous Symfony 3.4 et a récemment été migré vers Symfony 7.4.
 
 ## Fonctionnalités principales
 
@@ -12,14 +12,10 @@ Ce projet est une plateforme en ligne conçue pour fournir un soutien et une ent
 
 ## Technologies utilisées
 
-- PHP 8.2 ou version ultérieure
-- Symfony 7.0
-- MySQL 5.7 ou une version ultérieure
+- PHP 8.3 ou version ultérieure
+- Symfony 7.4
+- MySQL 8 ou une version ultérieure
 - Composer pour la gestion des dépendances
-
-## Visualisation
-
-Ce projet est visualisable à l'adresse [http://p5.marcraes.fr](http://p5.marcraes.fr)
 
 ## Auteurs
 
